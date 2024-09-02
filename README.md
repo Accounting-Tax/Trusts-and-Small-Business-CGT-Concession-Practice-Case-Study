@@ -1,5 +1,6 @@
 [Back to Home page](https://anh.contact)
-Summary of Practice Case Study: Trusts and Small Business CGT Concessions
+
+## Practice Case Study: Trusts and Small Business CGT Concessions
 
 Background:
 - Arthur Jones: Former farmer who transferred farming activities to his son William due to an accident.
